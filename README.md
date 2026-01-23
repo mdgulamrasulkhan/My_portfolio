@@ -54,6 +54,16 @@ Copy code
 - Clean UI and reusable code
 - Easy to customize
 
+  👤 Author
+Md Gulam Rasul Khan
+Aspiring Full Stack / Java Developer
+
+
+
+📄 License
+© 2026 Md Gulam Rasul Khan. All rights reserved.
+
+
 ---
 
 ## ▶️ How to Run Locally
@@ -89,12 +99,4 @@ frontend
 javascript
 web-development
 
-👤 Author
-Md Gulam Rasul Khan
-Aspiring Full Stack / Java Developer
-
-
-
-📄 License
-© 2026 Md Gulam Rasul Khan. All rights reserved.
 
