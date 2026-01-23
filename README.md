@@ -1,4 +1,5 @@
 # React Portfolio Website 🚀
+Live - https://mdgulamrasulkhan.netlify.app/
 
 This is a modern and responsive personal portfolio website built using **React** and **Vite**.  
 It showcases my skills, projects, experience, and contact information in a clean and professional way.
@@ -10,6 +11,7 @@ It showcases my skills, projects, experience, and contact information in a clean
 - React.js
 - Vite
 - JavaScript (ES6+)
+- Framer-Motion
 - HTML5
 - CSS3
 - Git & GitHub
