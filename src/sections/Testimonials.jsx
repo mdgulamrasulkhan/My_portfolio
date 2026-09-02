@@ -26,7 +26,7 @@ const testimonials = [
     image: m2,
   },
   {
-    name: "Zara Hyat Khan",
+    name: "Zara Khan",
     role: "Software Developer",
     review:
       "MR. Gulam Rasul Khan  transformed our outdated platform into something modern and powerful. His skills are world-class.",
