@@ -93,7 +93,7 @@ export default function Project() {
           My Work
         </h2>
         <br />
-        <h6 className="font-bold text-yellow-400">Please Scroll up...</h6>
+        <h6 className="font-bold text-yellow-400 mt-2 mb-4">Please Scroll up for next Project...</h6>
         <br />
         <br />
         <br />
