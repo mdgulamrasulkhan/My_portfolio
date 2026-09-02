@@ -20,10 +20,10 @@ const experiences = [
   },
   {
     role: "Java Full Stack Developer intern",
-    company: "Destination Codegnan Technologies",
-    duration: "2025 - ",
+    company: "Destination Career",
+    duration: "2025 -  ",
     description:
-      "Leaning tech-stack of Full Stack, Built high-performance apps",
+      "Currently learning and working with Java, Spring Boot, React, MySQL, and modern Full Stack technologies",
   },
 ];
 

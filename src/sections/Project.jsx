@@ -84,14 +84,14 @@ export default function Project() {
         transition: "background-color 400ms ease",
       }}
     >
-      <div className="sticky top-0 h-screen flex flex-col items-center justify-center">
+<div className="sticky top-0 h-screen flex flex-col items-center justify-center">
         <h2
-          className={`text-3xl font-semibold z-10 text-center ml-[50%] ${
-            isMobile ? "mt-4" : "mt-8"
-          }`}
-        >
-          My Work
-        </h2>
+  className={`text-3xl font-semibold z-10 text-center w-full ${
+    isMobile ? "mt-4" : "mt-8"
+  }`}
+>
+  My Work
+</h2>
         <br />
         <h6 className="font-bold text-yellow-400 mt-2 mb-4">Please Scroll up for next Project...</h6>
         <br />
@@ -119,7 +119,7 @@ export default function Project() {
                     key={project.title}
                     initial={{ opacity: 0, y: -30 }}
                     animate={{ opacity: 1, y: 0 }}
-                    exit={{ opacity: 0, y: 30 }}
+                          exit={{ opacity: 0, y: 30 }}
                     transition={{ duration: 0.5, ease: "easeOut" }}
                     className={`block text-center text-[clamp(2rem,6vw,5rem)] text-white/95 sm:absolute sm:-top-20 sm:left-[35%] lg:left-[-5%] sm:mb-0 italic font-semibold ${
                       isMobile ? "-mt-24" : ""
