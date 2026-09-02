@@ -92,6 +92,9 @@ export default function Project() {
         >
           My Work
         </h2>
+        <br />
+        <h6 className="font-bold text-yellow-400">Please Scroll up...</h6>
+        <br />
 
         <div
           className={`relative w-full flex-1 flex items-center justify-center ${
