@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import img1 from "../assets/img1.JPG";
+import { FaArrowUp } from "react-icons/fa6";
 import img2 from "../assets/img2.JPG";
 import img3 from "../assets/img3.JPG";
 import photo1 from "../assets/photo1.JPG";
@@ -92,8 +93,13 @@ export default function Project() {
 >
   My Work
 </h2>
-        <br />
-        <h6 className="font-bold text-yellow-400 mt-2 mb-4">Please Scroll up for next Project...</h6>
+      
+        <div className="flex items-center justify-center gap-1">
+  <h6 className="font-bold text-yellow-400 mt-2 mb-4">
+    Please Scroll up for next Project...
+  </h6>
+  <FaArrowUp className="text-yellow-400 animate-bounce" />
+</div>
         <br />
         <br />
         <br />
@@ -166,17 +172,22 @@ export default function Project() {
             </div>
           ))}
         </div>
-        <div className={`absolute ${isMobile ? "bottom-20" : "bottom-10"}`}>
-          <a
-            href={activeProject?.link}
-            target="_blank"
-            rel="noopener noreferer"
-            className="inline-block px-6 py-3 font-semibold rounded-lg bg-white text-black hover:bg-gray-200 transition-all"
-            aria-label={`View ${activeProject?.title}`}
-          >
-            View Project
-          </a>
-        </div>
+        
+        <div
+  className={`absolute z-50 ${
+    isMobile ? "bottom-4" : "bottom-6"
+  }`}
+>
+  <a
+    href={activeProject?.link}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-block px-6 py-3 font-semibold rounded-lg bg-white text-black hover:bg-gray-200 transition-all"
+    aria-label={`View ${activeProject?.title}`}
+  >
+    View Project
+  </a>
+</div>
       </div>
     </section>
   );
