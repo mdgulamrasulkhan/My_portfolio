@@ -53,19 +53,18 @@ export default function About() {
             <h2
               className="text-3xl sm:text-4xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r
           from-[#1cd8d2] via-[#00bf8f] to-[#1cd8d2]
-          "
-            >
+          " >
               MD GULAM RASUL KHAN
             </h2>
             <p className="mt-2 text-lg sm:text-xl text-white/90 font-semibold">
-              Full Stack Developer
+              Java Full Stack Developer
+            </p><br />
+            <p className="mt-2 text-lg sm:text-xl text-white/75 font-semibold">
+              Building scalable applications with Java, Spring Boot, Microservices & React.js.
             </p>
+           <br />
             <p className="mt-4 text-gray-300 leading-relaxed text-base sm:text-base  max-w-2xl md:max-w-3xl">
-             **MD GULAM RASUL KHAN**
-
-Java Full Stack Developer
-
-I’m a Java Full Stack Developer passionate about engineering scalable, high-performance web applications. 
+             I’m a Java Full Stack Developer passionate about engineering scalable, high-performance web applications. 
 I specialize in building robust backend systems using Java, Spring Boot, REST APIs, and Microservices, combined with modern, responsive frontends using React.js.
  I enjoy solving complex problems, writing clean code, and transforming ideas into reliable software solutions.
             </p>
@@ -113,7 +112,7 @@ I specialize in building robust backend systems using Java, Spring Boot, REST AP
           <p className="text-gray-300 leading-relaxed text-base sm:text-lg">
 
  
-Hello! ### About Me
+Hello!
 
 I'm a passionate Java Full Stack Developer who enjoys turning complex ideas into simple, scalable, and meaningful software solutions. My focus is on building modern web applications with strong backend architecture, clean code, and seamless user experiences.
 My technical expertise includes Core Java, Java 8, Spring Boot, Spring MVC, Hibernate, JPA, JDBC, RESTful APIs, and Microservices. On the frontend, I work with React.js, JavaScript, HTML5, CSS3, and Tailwind CSS. I also work with MySQL, PostgreSQL, and MongoDB for database management.
