@@ -109,12 +109,16 @@ export default function About() {
             About Me
           </h3>
           <p className="text-gray-300 leading-relaxed text-base sm:text-lg">
-            I'm a Software Developer, Content Creator, and Web Developer —
-            passionate about building fast, resilient applications.
+            Bilkul! Java Full Stack Developer profile mein **Microservices** add karna achha rahega, especially Spring Boot ke saath.
+
+I'm a passionate Java Full Stack Developer focused on building modern, scalable, and user-friendly web applications. 
+I work with Core Java, Java 8, Spring Boot, Spring MVC, Hibernate, JPA, Microservices, REST APIs, React.js, JavaScript, and MySQL. 
+I enjoy developing end-to-end applications, designing efficient backend systems, building responsive interfaces, and solving real-world problems through clean, maintainable code. 
+
           </p>
           <p className="mt-4 text-gray-400 text-base sm:text-lg">
             I love turning ideas into scalable, user-friendly products that make
-            an impact.
+            an impact. I'm always eager to learn new technologies and build impactful software solutions.
           </p>
         </motion.div>
       </div>
