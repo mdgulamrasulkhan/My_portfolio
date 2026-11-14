@@ -61,11 +61,13 @@ export default function About() {
               Full Stack Developer
             </p>
             <p className="mt-4 text-gray-300 leading-relaxed text-base sm:text-base  max-w-2xl md:max-w-3xl">
-              I build scalable, modern applications with a strong focus on clean
-              architecture, delightful UX, and performance. My toolkit spans
-              Java, React.js, JavaScript, Tailwind CSS, MySql and
-              RestfulAPI—bringing ideas to life from concept to production with
-              robust APIs and smooth interfaces.
+             **MD GULAM RASUL KHAN**
+
+Java Full Stack Developer
+
+I’m a Java Full Stack Developer passionate about engineering scalable, high-performance web applications. 
+I specialize in building robust backend systems using Java, Spring Boot, REST APIs, and Microservices, combined with modern, responsive frontends using React.js.
+ I enjoy solving complex problems, writing clean code, and transforming ideas into reliable software solutions.
             </p>
             <div className="mt-6 grid grid-cols-2 sm:grid-cols-3 gap-3 sm:gap-4 max-w-xl">
               {stats.map((item, i) => (
@@ -111,9 +113,13 @@ export default function About() {
           <p className="text-gray-300 leading-relaxed text-base sm:text-lg">
 
  
-Hello!  I'm a passionate Java Full Stack Developer focused on building modern, scalable, and user-friendly web applications. 
-I work with Core Java, Java 8, Spring Boot, Spring MVC, Hibernate, JPA, Microservices, REST APIs, React.js, JavaScript, and MySQL. 
-I enjoy developing end-to-end applications, designing efficient backend systems, building responsive interfaces, and solving real-world problems through clean, maintainable code. 
+Hello! ### About Me
+
+I'm a passionate Java Full Stack Developer who enjoys turning complex ideas into simple, scalable, and meaningful software solutions. My focus is on building modern web applications with strong backend architecture, clean code, and seamless user experiences.
+My technical expertise includes Core Java, Java 8, Spring Boot, Spring MVC, Hibernate, JPA, JDBC, RESTful APIs, and Microservices. On the frontend, I work with React.js, JavaScript, HTML5, CSS3, and Tailwind CSS. I also work with MySQL, PostgreSQL, and MongoDB for database management.
+I enjoy developing end-to-end applications, designing REST APIs, implementing authentication, integrating frontend and backend services, and solving real-world development challenges. Through projects like my E-commerce Application, Job Portal, and Smart Email Assistant, I've gained practical experience in building full-stack applications.
+Beyond development, I continuously improve my problem-solving skills through Data Structures, Algorithms, and SQL challenges. I believe in writing maintainable code, learning modern technologies, and building applications that deliver real value.
+My goal is to grow as a strong software engineer, contribute to impactful products, and create technology that makes a difference.
 
           </p>
           <p className="mt-4 text-gray-400 text-base sm:text-lg">
