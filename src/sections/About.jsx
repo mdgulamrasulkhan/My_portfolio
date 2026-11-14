@@ -58,8 +58,8 @@ export default function About() {
             </h2>
             <p className="mt-2 text-lg sm:text-xl text-white/90 font-semibold">
               Java Full Stack Developer
-            </p><br />
-            <p className="mt-2 text-lg sm:text-xl text-white/75 font-semibold">
+            </p>
+            <p className="mt-2 text-sm sm:text-base text-white/75 font-medium">
               Building scalable applications with Java, Spring Boot, Microservices & React.js.
             </p>
            <br />
