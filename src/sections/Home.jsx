@@ -173,7 +173,7 @@ export default function Home() {
             {/* Main Heading */}
             <motion.h1
               className="
-                text-3xl sm:text-4xl md:text-5xl lg:text-6xl
+                text-xl sm:text-2xl md:text-3xl lg:text-4xl
                 font-bold
                 text-transparent
                 bg-clip-text
@@ -195,7 +195,7 @@ export default function Home() {
                 className="
                   text-white
                   font-bold
-                  text-3xl sm:text-4xl md:text-5xl lg:text-6xl
+                  text-2xl sm:text-3xl md:text-4xl lg:text-5xl
                   lg:whitespace-nowrap
                 "
               >
